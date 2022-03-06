@@ -1,7 +1,7 @@
 # Prague-Parking-1.1 Lab 02 
 
 School assignment from Campus Nyköping. 2021-09-27 -> 2021-10-20.
-VG Uppnått.
+VG uppnått.
 
 Inledning
 Kund önskar ett stöd för en parkering vid slottet i Prag.
