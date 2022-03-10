@@ -7,7 +7,7 @@ Inledning
 Kund önskar ett stöd för en parkering vid slottet i Prag.
 Parkeringsplatsen är s.k. valet parking. Kunden lämnar nyckel och fordon samt får ett kvitto vilket ger
 rätten att hämta ut fordonet. Parkeringsplatsen sköts av "finniga studenter" och pensionärer så
-systemet måste vara enkelt.
+systemet måste vara enkelt
 
 Parkeringsplatsen tar emot bilar och motorcyklar.
 I dagsläget hämtas alla fordon ut före 00.00 när parkeringen stänger. Ej uthämtade fordon körs till en
