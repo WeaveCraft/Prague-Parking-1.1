@@ -49,7 +49,3 @@ För G
 ● Om det behövs några speciella handgrepp för att köra applikationen (utöver att trycks F5
 eller Ctrl-F5 i Visual Studio) så skall dessa dokumenteras. Använd README.MD i GitHub för
 ändamålet.
-
-
-![Screenshot 2022-10-23 124751](https://user-images.githubusercontent.com/90194213/197387914-82afab63-57e8-412b-9529-305e7f722633.png)
-![Screenshot 2022-10-23 124808](https://user-images.githubusercontent.com/90194213/197387918-d9708064-2919-49e6-b4b4-3fba3837f2fe.png)
